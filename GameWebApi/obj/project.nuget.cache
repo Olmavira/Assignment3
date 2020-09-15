@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jy4glXRCH2q4UuhmBdh/ISH2k520NlkxqVaYEqYAKpi+cPSSWTqcbqMuVQBqlXjDf0D7ptx2O6Ag3vk1AP+/RA==",
+  "success": true,
+  "projectFilePath": "E:\\Koulu\\Periodi v3p1\\Taustajarjestelmat\\Assignment3\\GameWebApi\\GameWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ollim\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
